@@ -1,0 +1,11 @@
+PAC 2 – Tècnica 3: Tile Grid Map. Tema: quota d’energia renovable de la UE-27 (2024).
+
+OBJECTIU: comparar països sense que les seves superfícies geogràfiques distorsionin el pes visual.
+DEFINICIÓ: mapa esquemàtic que assigna una cel·la de superfície idèntica a cada unitat territorial.
+DADES: 27 països de la UE, codi territorial i percentatge de renovables sobre consum final brut; una observació per país.
+AVANTATGE: comparabilitat visual entre territoris. LIMITACIONS: desplaçament de països i pèrdua de precisió geogràfica; la ubicació de les cel·les és aproximada.
+RESULTATS: Suècia 62,8 %, Finlàndia 52,1 %, Dinamarca 46,8 %; Bèlgica 14,3 %, Luxemburg 14,7 %, Irlanda 16,1 %. Agregat UE-27 25,2 %.
+INSIGHT: els països septentrionals destaquen, però la distribució no es pot explicar únicament per la latitud; hi intervenen el mix energètic i les condicions específiques. Evitar explicacions causals sense estudis addicionals.
+PÚBLIC: persones interessades en polítiques energètiques i sostenibilitat.
+FONT: Eurostat, Renewable energy share (nrg_ind_ren), 2024. https://ec.europa.eu/eurostat/databrowser/view/nrg_ind_ren/default/table?lang=en
+ÚS D'IA: assistència en selecció de l'indicador, construcció del prototip i redacció preliminar; revisar i citar segons criteris de la PAC.

@@ -1,0 +1,8 @@
+PAC 2 – HEATMAP DE NO₂ · BARCELONA 2024 · REVISIÓ
+
+Font base: 12 CSV de l’Ajuntament de Barcelona, 2024. Contaminant NO₂, codi 8.
+8 estacions × 12 mesos = 96 cel·les. 94 compleixen cobertura de mesures horàries vàlides ≥75 %.
+Dues cel·les dels CSV originals tenen cobertura inferior: estació 44 (Gràcia–Sant Gervasi), març, 62,37 %; i estació 58, novembre, 69,31 %.
+Correccions de l’estudiant: 31,3 µg/m³ per a Gràcia–Sant Gervasi al març i 8,2 µg/m³ per a l’estació 58 al novembre.
+Ara es representen les 96 cel·les: 94 valors del càlcul original i 2 valors complementaris representats amb la mateixa escala cromàtica i sense contorn diferenciador.
+IMPORTANT: les dades complementàries no provenen de la validació dels CSV originals en aquest processament; falta documentar-ne la font exacta i confirmar la metodologia del càlcul. La cobertura original queda registrada, sense reclassificar-la.

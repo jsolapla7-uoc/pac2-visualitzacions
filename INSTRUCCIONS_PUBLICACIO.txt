@@ -1,0 +1,7 @@
+1. Creeu un repositori PÚBLIC a GitHub, per exemple pac2-visualitzacions.
+2. Descomprimiu aquest ZIP al vostre ordinador.
+3. Al repositori, Add file > Upload files; arrossegueu index.html, .nojekyll i les 3 carpetes heatmap, voronoi i tile-grid-map (amb els arxius interiors). Feu Commit changes.
+4. Settings > Pages > Build and deployment > Source: Deploy from a branch. Branch: main; folder: /(root). Save.
+5. GitHub mostrarà la URL publicada. Les adreces seran: https://USUARI.github.io/pac2-visualitzacions/heatmap/ , /voronoi/ i /tile-grid-map/. Canvieu USUARI pel vostre nom d'usuari i adapteu el nom del repositori.
+6. Verifiqueu cada pàgina en una finestra privada del navegador i incorporeu els URL a la presentació.
+IMPORTANT: Aquest ZIP no està publicat per si mateix. No pengeu dades personals ni documents privats.

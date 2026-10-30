@@ -1,0 +1,1 @@
+Voronoi per distància euclidiana sobre EPSG:25831. Semiplans intersectats amb rectangle de visualització, sense divisió municipal. Fonts: https://doi.org/10.3390/app142210355 i dades obertes Barcelona. El codi 58 manté etiqueta neutral fins a contrastar el nom.
